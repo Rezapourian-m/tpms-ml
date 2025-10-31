@@ -11,7 +11,7 @@ env/
 venv/
 
 # Data & models
-data/*.csv
+#data/*.csv
 !data/README.md
 models/
 !models/.gitkeep
